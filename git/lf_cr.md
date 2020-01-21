@@ -1,6 +1,6 @@
 # warning: LF will be replaced by CRLF 해결하기
 
-git init 을 한 후 README.md 를 만들고 commit 을 하는데 난생 처음보는 메시지가 떴다.
+CLI에서 vim 을 통해 git init 을 한 후 README.md 를 만들고 commit 을 하는데 난생 처음보는 메시지가 떴다.
 
 ```
 warning: LF will be replaced by CRLF in README.md.
