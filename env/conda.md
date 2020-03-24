@@ -30,3 +30,9 @@ conda remove --name(또는 -n) 가상환경명 --all
 conda install 패키지명
 ```
 
+## 가상환경 목록
+
+```
+conda info --envs
+```
+
